@@ -1,0 +1,233 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* MoviesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1070}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Movies */ = {
+		activeExec = 0;
+		executables = (
+			6B07FFD3128C82B60087DBD4 /* Movies */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 460}}";
+			sepNavSelRange = "{311, 0}";
+			sepNavVisRange = "{0, 319}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2392}}";
+			sepNavSelRange = "{2447, 0}";
+			sepNavVisRange = "{1680, 1043}";
+			sepNavWindowFrame = "{{15, 18}, {1198, 755}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6B07FFD3128C82B60087DBD4 /* Movies */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Movies */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Movies */,
+		);
+		codeSenseManager = 6B07FFEA128C82CC0087DBD4 /* Code sense */;
+		executables = (
+			6B07FFD3128C82B60087DBD4 /* Movies */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311198390;
+			PBXWorkspaceStateSaveDate = 311198390;
+		};
+		perUserProjectItems = {
+			6B0700F4128C9F3A0087DBD4 /* PBXTextBookmark */ = 6B0700F4128C9F3A0087DBD4 /* PBXTextBookmark */;
+			6B070101128C9F9A0087DBD4 /* PBXTextBookmark */ = 6B070101128C9F9A0087DBD4 /* PBXTextBookmark */;
+			6B070102128C9F9A0087DBD4 /* PBXTextBookmark */ = 6B070102128C9F9A0087DBD4 /* PBXTextBookmark */;
+			6B070103128C9F9A0087DBD4 /* PBXTextBookmark */ = 6B070103128C9F9A0087DBD4 /* PBXTextBookmark */;
+			6B070104128C9F9A0087DBD4 /* PBXTextBookmark */ = 6B070104128C9F9A0087DBD4 /* PBXTextBookmark */;
+			6B070105128C9F9A0087DBD4 /* PBXTextBookmark */ = 6B070105128C9F9A0087DBD4 /* PBXTextBookmark */;
+			6B070106128C9F9A0087DBD4 /* XCBuildMessageTextBookmark */ = 6B070106128C9F9A0087DBD4 /* XCBuildMessageTextBookmark */;
+			6B070123128CA2130087DBD4 /* PBXTextBookmark */ = 6B070123128CA2130087DBD4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6B07FFE9128C82CC0087DBD4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6B070021128C8B410087DBD4 /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 627}}";
+			sepNavSelRange = "{261, 1}";
+			sepNavVisRange = "{0, 522}";
+			sepNavWindowFrame = "{{15, 18}, {1198, 755}}";
+		};
+	};
+	6B070022128C8B410087DBD4 /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 806}}";
+			sepNavSelRange = "{964, 0}";
+			sepNavVisRange = "{794, 252}";
+			sepNavWindowFrame = "{{15, 18}, {1198, 755}}";
+		};
+	};
+	6B0700F4128C9F3A0087DBD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B070021128C8B410087DBD4 /* DetailViewController.h */;
+		name = "DetailViewController.h: 23";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 0;
+	};
+	6B070101128C9F9A0087DBD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B07FFEF128C83970087DBD4 /* Movie.h */;
+		name = "Movie.h: 19";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	6B070102128C9F9A0087DBD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B07FFF0128C83970087DBD4 /* Movie.m */;
+		name = "Movie.m: 26";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 467;
+		vrLoc = 0;
+	};
+	6B070103128C9F9A0087DBD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MoviesAppDelegate.m */;
+		name = "MoviesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1070;
+		vrLoc = 0;
+	};
+	6B070104128C9F9A0087DBD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 17";
+		rLen = 0;
+		rLoc = 311;
+		rType = 0;
+		vrLen = 319;
+		vrLoc = 0;
+	};
+	6B070105128C9F9A0087DBD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 95";
+		rLen = 0;
+		rLoc = 2447;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 1680;
+	};
+	6B070106128C9F9A0087DBD4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'title' in something not a structure or union";
+		fRef = 6B070022128C8B410087DBD4 /* DetailViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 35;
+		rType = 1;
+	};
+	6B070123128CA2130087DBD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B070022128C8B410087DBD4 /* DetailViewController.m */;
+		name = "DetailViewController.m: 36";
+		rLen = 0;
+		rLoc = 964;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 917;
+	};
+	6B07FFD3128C82B60087DBD4 /* Movies */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Movies;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6B07FFE9128C82CC0087DBD4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6B07FFEA128C82CC0087DBD4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6B07FFEF128C83970087DBD4 /* Movie.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 460}}";
+			sepNavSelRange = "{286, 0}";
+			sepNavVisRange = "{0, 409}";
+		};
+	};
+	6B07FFF0128C83970087DBD4 /* Movie.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 460}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{0, 467}";
+		};
+	};
+}
